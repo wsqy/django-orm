@@ -1,3 +1,4 @@
+感谢 @dancaron 项目已被合并到主线https://github.com/dancaron/Django-ORM中
 Django ORM Standalone Template
 
 这是从dancaron的Django-ORM抽离出来的兼容python2和python3的Django-ORM系统,dancaron原有的代码基于python2.7+django 1.4.0,我复写的项目实现了对python3.4+ Django1.10.2(已测试的版本)
